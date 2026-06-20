@@ -207,7 +207,7 @@ gareeb-showcase/
 └── screenshots/
     ├── README.md
     ├── 01-onboarding-welcome.png
-    ├── … (15 product captures)
+    ├── … (14 product captures)
     └── 15-behavior-insights-patterns.png
 ```
 
@@ -298,7 +298,7 @@ Roadmap items in this repository are **product direction statements**, not publi
 | 5 | **إدخال مشترى / صرف** | ![Add expense](screenshots/06-spending-entry.png) |
 | 6 | **وش لاحظت — ملاحظات** | ![Insights](screenshots/13-behavior-insights.png) |
 
-**15 لقطة** مرتّبة بالكامل (إعداد → اليوم → صرف → قريب → ملاحظات): [`screenshots/README.md`](screenshots/README.md)
+**14 لقطة** مرتّبة بالكامل (إعداد → اليوم → صرف → قريب → ملاحظات): [`screenshots/README.md`](screenshots/README.md)
 
 ---
 

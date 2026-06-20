@@ -1,6 +1,6 @@
 # Screenshots — جولة في التطبيق
 
-15 لقطة مرتّبة حسب **رحلة المستخدم** من أول فتح للتطبيق إلى الملاحظات السلوكية.
+14 لقطة مرتّبة حسب **رحلة المستخدم** من أول فتح للتطبيق إلى الملاحظات السلوكية.
 
 > **ملاحظة:** التطبيق حالياً يدخل مباشرة بدون تسجيل دخول (وضع ضيف). «الدخول» هنا = **الإعداد الأول** ثم **الصفحة الرئيسية**.
 
@@ -43,8 +43,7 @@
 | # | الصفحة | الملف | ماذا تُظهر؟ |
 |---|--------|-------|-------------|
 | **10** | **ملاحظة — قهوة** | [`10-companion-watcher-coffee.png`](10-companion-watcher-coffee.png) | تكرار القهوة: «مرة ثانية؟» |
-| **11** | **ملاحظة — بنزين** | [`11-companion-watcher-fuel.png`](11-companion-watcher-fuel.png) | تحرك كثير: «تحركاتك كثيرة هالأيام» |
-| **12** | **ملاحظة — تسوق** | [`12-companion-watcher-shopping.png`](12-companion-watcher-shopping.png) | اندفاع شراء: «مو كل شيء لازم ينشرى فوراً» |
+| **11** | **ملاحظة — تسوق** | [`12-companion-watcher-shopping.png`](12-companion-watcher-shopping.png) | اندفاع شراء: «مو كل شيء لازم ينشرى فوراً» |
 
 ---
 
@@ -92,9 +91,9 @@
 | ![6](06-spending-entry.png) |
 
 ### قريب يراقب
-| قهوة | بنزين | تسوق |
-|:---:|:---:|:---:|
-| ![10](10-companion-watcher-coffee.png) | ![11](11-companion-watcher-fuel.png) | ![12](12-companion-watcher-shopping.png) |
+| قهوة | تسوق |
+|:---:|:---:|
+| ![10](10-companion-watcher-coffee.png) | ![12](12-companion-watcher-shopping.png) |
 
 ### وش لاحظت
 | ملاحظات | توزيع | أنماط |
@@ -117,7 +116,6 @@
 | `08-home-recent-expenses.png` | Today — recent list + chart |
 | `09-home-monthly-chart.png` | Today — monthly rhythm |
 | `10-companion-watcher-coffee.png` | Watcher — coffee pattern |
-| `11-companion-watcher-fuel.png` | Watcher — fuel / mobility |
 | `12-companion-watcher-shopping.png` | Watcher — shopping impulse |
 | `13-behavior-insights.png` | Insights — observation cards |
 | `14-insights-distribution.png` | Insights — category donut |
@@ -128,4 +126,4 @@
 ## Usage
 
 - بيانات تجريبية فقط — آمنة للمعرض والـ portfolio.
-- الترتيب الرقمي (01–15) يتبع **مسار المستخدم**، مو ترتيب رفع الملفات.
+- الترتيب يتبع **مسار المستخدم**، مو ترتيب رفع الملفات.
