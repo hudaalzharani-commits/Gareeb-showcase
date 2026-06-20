@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" role="img" aria-label="Gareeb showcase banner">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FAF7F0"/>
+      <stop offset="50%" stop-color="#F3EDE3"/>
+      <stop offset="100%" stop-color="#ECE4D8"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#5A7A5A"/>
+      <stop offset="100%" stop-color="#7A9A7A"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="320" fill="url(#bg)"/>
+  <circle cx="980" cy="80" r="180" fill="#5A7A5A" opacity="0.06"/>
+  <circle cx="200" cy="260" r="140" fill="#8A7AAA" opacity="0.05"/>
+  <rect x="80" y="140" width="120" height="6" rx="3" fill="url(#accent)" opacity="0.9"/>
+  <text x="80" y="110" font-family="Georgia, 'Times New Roman', serif" font-size="56" font-weight="700" fill="#2C2820">Gareeb</text>
+  <text x="80" y="175" font-family="system-ui, -apple-system, sans-serif" font-size="22" fill="#5A7A5A" letter-spacing="0.04em">Behavioral Finance Companion</text>
+  <text x="80" y="220" font-family="system-ui, -apple-system, sans-serif" font-size="16" fill="#6B6560">Understanding the story behind spending  not just the numbers</text>
+  <g transform="translate(920, 80)">
+    <circle cx="80" cy="80" r="72" fill="#FAF7F0" stroke="#D8D0C4" stroke-width="2"/>
+    <path d="M80 36 C64 48, 60 66, 68 80 C72 74, 76 72, 80 72 C84 72, 88 74, 92 80 C100 66, 96 48, 80 36 Z" fill="#5A7A5A"/>
+    <circle cx="70" cy="58" r="3.5" fill="#2C2820" opacity="0.7"/>
+    <circle cx="90" cy="58" r="3.5" fill="#2C2820" opacity="0.7"/>
+  </g>
+</svg>
