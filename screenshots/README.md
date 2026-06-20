@@ -1,6 +1,6 @@
 # Screenshots — جولة في التطبيق
 
-14 لقطة مرتّبة حسب **رحلة المستخدم** من أول فتح للتطبيق إلى الملاحظات السلوكية.
+13 لقطة مرتّبة حسب **رحلة المستخدم** من أول فتح للتطبيق إلى الملاحظات السلوكية.
 
 > **ملاحظة:** التطبيق حالياً يدخل مباشرة بدون تسجيل دخول (وضع ضيف). «الدخول» هنا = **الإعداد الأول** ثم **الصفحة الرئيسية**.
 
@@ -51,9 +51,8 @@
 
 | # | الصفحة | الملف | ماذا تُظهر؟ |
 |---|--------|-------|-------------|
-| **13** | **ملاحظات عامة** | [`13-behavior-insights.png`](13-behavior-insights.png) | بطاقات ملاحظات: فئة مسيطرة، راتب، صرف عاطفي… |
-| **14** | **توزيع الصرف + الراحة** | [`14-insights-distribution.png`](14-insights-distribution.png) | دائرة الفئات + ملخص «صرف الراحة والدلع» |
-| **15** | **أنماط مفصّلة** | [`15-behavior-insights-patterns.png`](15-behavior-insights-patterns.png) | بطاقات أكثر: متوسط يومي، قهوة، راحة ودلع… |
+| **12** | **توزيع الصرف + الراحة** | [`14-insights-distribution.png`](14-insights-distribution.png) | دائرة الفئات + ملخص «صرف الراحة والدلع» |
+| **13** | **ملاحظات وأنماط** | [`15-behavior-insights-patterns.png`](15-behavior-insights-patterns.png) | بطاقات ملاحظات: فئات، راتب، متوسط يومي، قهوة… |
 
 ---
 
@@ -96,9 +95,9 @@
 | ![10](10-companion-watcher-coffee.png) | ![12](12-companion-watcher-shopping.png) |
 
 ### وش لاحظت
-| ملاحظات | توزيع | أنماط |
-|:---:|:---:|:---:|
-| ![13](13-behavior-insights.png) | ![14](14-insights-distribution.png) | ![15](15-behavior-insights-patterns.png) |
+| توزيع | ملاحظات وأنماط |
+|:---:|:---:|
+| ![14](14-insights-distribution.png) | ![15](15-behavior-insights-patterns.png) |
 
 ---
 
@@ -117,9 +116,8 @@
 | `09-home-monthly-chart.png` | Today — monthly rhythm |
 | `10-companion-watcher-coffee.png` | Watcher — coffee pattern |
 | `12-companion-watcher-shopping.png` | Watcher — shopping impulse |
-| `13-behavior-insights.png` | Insights — observation cards |
 | `14-insights-distribution.png` | Insights — category donut |
-| `15-behavior-insights-patterns.png` | Insights — pattern breakdown |
+| `15-behavior-insights-patterns.png` | Insights — pattern cards |
 
 ---
 
