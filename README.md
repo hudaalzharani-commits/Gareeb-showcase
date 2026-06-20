@@ -190,6 +190,7 @@ gareeb-showcase/
 ├── README.md                          ← You are here
 ├── assets/
 │   ├── gareeb-banner.svg
+│   ├── gareeb-logo.png
 │   └── gareeb-logo.svg
 ├── architecture/
 │   ├── behavior-engine.md
@@ -316,7 +317,7 @@ Built as a product case study demonstrating behavioral finance companion design 
 ---
 
 <p align="center">
-  <img src="assets/gareeb-logo.svg" alt="Gareeb logo" width="72">
+  <img src="assets/gareeb-logo.png" alt="Gareeb logo" width="120">
 </p>
 
 <p align="center">
