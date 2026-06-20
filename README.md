@@ -204,7 +204,10 @@ gareeb-showcase/
 │   ├── personalities.md
 │   └── glossary.md
 └── screenshots/
-    └── README.md
+    ├── README.md
+    ├── 01-onboarding-welcome.png
+    ├── … (15 product captures)
+    └── 15-behavior-insights-patterns.png
 ```
 
 Start with [docs/product-context.md](docs/product-context.md) for the full problem framing.
@@ -285,7 +288,16 @@ Roadmap items in this repository are **product direction statements**, not publi
 
 ## Screenshots
 
-Visual captures live in [`/screenshots`](screenshots/README.md). Add curated, anonymized mobile screenshots before portfolio review.
+Visual captures from the live product UI:
+
+<p align="center">
+  <img src="screenshots/01-onboarding-welcome.png" alt="Onboarding welcome" width="220">
+  <img src="screenshots/05-home-overview.png" alt="Today overview" width="220">
+  <img src="screenshots/06-spending-entry.png" alt="Spending entry" width="220">
+  <img src="screenshots/13-behavior-insights.png" alt="Behavior insights" width="220">
+</p>
+
+Full gallery (15 screens): [`screenshots/README.md`](screenshots/README.md)
 
 ---
 

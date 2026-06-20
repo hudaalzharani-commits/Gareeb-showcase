@@ -1,26 +1,75 @@
 # Screenshots
 
-This folder holds visual assets for the Gareeb Showcase repository.
+Curated mobile captures for the Gareeb Showcase repository.
 
-## Intended Contents
+## Gallery
+
+### Onboarding
+
+| | |
+|---|---|
+| Welcome | Spending habits |
+| ![Welcome](01-onboarding-welcome.png) | ![Spending habits](03-onboarding-spending-habits.png) |
+| Persona selection | |
+| ![Persona](04-onboarding-persona.png) | |
+
+### Today (Home)
+
+| | |
+|---|---|
+| First open | Overview with salary |
+| ![First open](02-home-first-open.png) | ![Overview](05-home-overview.png) |
+| Activity logged | Recent expenses |
+| ![Activity](07-home-activity-logged.png) | ![Recent](08-home-recent-expenses.png) |
+| Monthly rhythm | |
+| ![Chart](09-home-monthly-chart.png) | |
+
+### Spending capture
+
+| |
+|---|
+| Add expense flow with mood and categories |
+| ![Spending entry](06-spending-entry.png) |
+
+### Companion (Watcher)
+
+| | |
+|---|---|
+| Coffee pattern | Fuel pattern |
+| ![Coffee](10-companion-watcher-coffee.png) | ![Fuel](11-companion-watcher-fuel.png) |
+| Shopping impulse | |
+| ![Shopping](12-companion-watcher-shopping.png) | |
+
+### Insights
+
+| | |
+|---|---|
+| What I noticed | Category distribution |
+| ![Insights](13-behavior-insights.png) | ![Donut](14-insights-distribution.png) |
+| Pattern cards | |
+| ![Patterns](15-behavior-insights-patterns.png) | |
+
+## File index
 
 | File | Description |
 |------|-------------|
-| `onboarding-welcome.png` | First-run experience — tone-setting welcome screen |
-| `companion-calm.png` | Calm personality — default reflective state |
-| `companion-honest.png` | Honest personality — direct behavioral feedback |
-| `companion-watcher.png` | Watcher personality — quiet observation mode |
-| `spending-entry.png` | Spending capture flow with mood and category context |
-| `behavior-insights.png` | Pattern and behavior summary view |
-| `daily-reflection.png` | Daily mood note and reflection surface |
-| `monthly-journey.png` | Monthly awareness journey overview |
+| `01-onboarding-welcome.png` | Welcome — tone-setting first screen |
+| `02-home-first-open.png` | Today — empty month, calm default |
+| `03-onboarding-spending-habits.png` | Onboarding — spending habit chips |
+| `04-onboarding-persona.png` | Onboarding — Calm / Watcher / Honest |
+| `05-home-overview.png` | Today — salary bar and daily stats |
+| `06-spending-entry.png` | Capture flow — amount, category, mood |
+| `07-home-activity-logged.png` | Today — first spends + pattern note |
+| `08-home-recent-expenses.png` | Today — chart and recent list |
+| `09-home-monthly-chart.png` | Today — month view with category split |
+| `10-companion-watcher-coffee.png` | Watcher — coffee ritual subtitle |
+| `11-companion-watcher-fuel.png` | Watcher — fuel / mobility pattern |
+| `12-companion-watcher-shopping.png` | Watcher — shopping impulse line |
+| `13-behavior-insights.png` | Insights — observation cards |
+| `14-insights-distribution.png` | Insights — donut + comfort spend |
+| `15-behavior-insights-patterns.png` | Insights — full pattern breakdown |
 
-## Usage Guidelines
+## Usage
 
-- Use consistent device framing (mobile-first; Gareeb is designed for personal, in-the-moment use).
-- Blur or anonymize any personal financial data before publishing.
-- Prefer screenshots that show **character presence**, **contextual feedback**, and **reflective copy** — not raw totals alone.
-
-## Placeholder Status
-
-Screenshots are not bundled in this documentation repository by default. Add curated captures before sharing the showcase with external reviewers.
+- Mobile-first framing; shows character, contextual copy, and reflective UI — not raw totals alone.
+- Demo data only (sample SAR amounts). Safe for portfolio / recruiter review.
