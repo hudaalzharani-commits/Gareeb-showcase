@@ -287,18 +287,18 @@ Roadmap items in this repository are **product direction statements**, not publi
 
 ---
 
-## Screenshots
+## Screenshots — جولة في التطبيق
 
-Visual captures from the live product UI:
+| # | الصفحة | |
+|---|--------|---|
+| 1 | **ترحيب — الإعداد الأول** | ![Onboarding](screenshots/01-onboarding-welcome.png) |
+| 2 | **عادات الصرف** | ![Habits](screenshots/03-onboarding-spending-habits.png) |
+| 3 | **اختيار شخصية قريب** | ![Persona](screenshots/04-onboarding-persona.png) |
+| 4 | **الرئيسية — أول دخول** | ![Home](screenshots/02-home-first-open.png) |
+| 5 | **إدخال مشترى / صرف** | ![Add expense](screenshots/06-spending-entry.png) |
+| 6 | **وش لاحظت — ملاحظات** | ![Insights](screenshots/13-behavior-insights.png) |
 
-<p align="center">
-  <img src="screenshots/01-onboarding-welcome.png" alt="Onboarding welcome" width="220">
-  <img src="screenshots/05-home-overview.png" alt="Today overview" width="220">
-  <img src="screenshots/06-spending-entry.png" alt="Spending entry" width="220">
-  <img src="screenshots/13-behavior-insights.png" alt="Behavior insights" width="220">
-</p>
-
-Full gallery (15 screens): [`screenshots/README.md`](screenshots/README.md)
+**15 لقطة** مرتّبة بالكامل (إعداد → اليوم → صرف → قريب → ملاحظات): [`screenshots/README.md`](screenshots/README.md)
 
 ---
 
