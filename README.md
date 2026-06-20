@@ -287,18 +287,18 @@ Roadmap items in this repository are **product direction statements**, not publi
 
 ---
 
-## Screenshots — جولة في التطبيق
+## Screenshots — App tour
 
-| # | الصفحة | |
+| # | Screen | |
 |---|--------|---|
-| 1 | **ترحيب — الإعداد الأول** | ![Onboarding](screenshots/01-onboarding-welcome.png) |
-| 2 | **عادات الصرف** | ![Habits](screenshots/03-onboarding-spending-habits.png) |
-| 3 | **اختيار شخصية قريب** | ![Persona](screenshots/04-onboarding-persona.png) |
-| 4 | **الرئيسية — أول دخول** | ![Home](screenshots/02-home-first-open.png) |
-| 5 | **إدخال مشترى / صرف** | ![Add expense](screenshots/06-spending-entry.png) |
-| 6 | **وش لاحظت — أنماط** | ![Insights](screenshots/15-behavior-insights-patterns.png) |
+| 1 | **Welcome — onboarding** | ![Onboarding](screenshots/01-onboarding-welcome.png) |
+| 2 | **Spending habits** | ![Habits](screenshots/03-onboarding-spending-habits.png) |
+| 3 | **Pick a personality** | ![Persona](screenshots/04-onboarding-persona.png) |
+| 4 | **Today — first open** | ![Home](screenshots/02-home-first-open.png) |
+| 5 | **Add a spend** | ![Add expense](screenshots/06-spending-entry.png) |
+| 6 | **What I noticed — patterns** | ![Insights](screenshots/15-behavior-insights-patterns.png) |
 
-**13 لقطة** مرتّبة بالكامل (إعداد → اليوم → صرف → قريب → ملاحظات): [`screenshots/README.md`](screenshots/README.md)
+Full gallery (**13 screens**): [`screenshots/README.md`](screenshots/README.md)
 
 ---
 
